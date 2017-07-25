@@ -1,0 +1,27 @@
+.self-form {
+    margin-top: 14px !important;
+}
+
+.selt-header {
+    margin-top: 10px;
+}
+
+.self-navs {
+    margin-top: 24px;
+}
+
+.self-navs li a {
+    color: black !important;
+    margin-top: 18px;
+    font-weight: bold;
+}
+
+.self-navs li a:hover {
+    color: red !important;
+    margin-top: 18px;
+    font-weight: bold;
+}
+
+.high {
+    height: 400px;
+}
